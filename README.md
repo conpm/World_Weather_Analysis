@@ -1,2 +1,4 @@
 # World_Weather_Analysis
 Performing an analysis of weather patterns globally
+## Purpose
+The purpose of this repository was to put together a database of cities throughout the world, and their weather data.  Then utilizing that weather data, a system was created in order to find cities based on their maximum and minimum temperatures.  This could then be used by users in order to find cities which fall into their preferred range of temperatures to find potential vacation desitinations.  Then, once several cities have been chosen, they can choose to plot out a travel itinerary which shows them a travel route, as well as first result for hotels within those cities.  Finally, the data is viewable in the format of a map with info boxes which display; Hotel Name, City, Country, and Current Weather.
